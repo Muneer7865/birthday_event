@@ -1,11 +1,11 @@
 {
   "_id": {
     "$oid": "63ee668042c835a86b5da200"
-  },
-  "EventName": "birthDayparty",
-  "EventDate": "18-03-2023",
-  "EventLocation": "guntur",
-  "Budget": 250000,
-  "GuestList": 250,
-  "Note": "Need to arrange kids sport or games"
-}
+   },
+  "eventdate": "18-03-2023",
+  "eventname": "birthdayparty",
+  "eventlocation": "guntur",
+  "budget": 250000,
+  "guestlist": 250,
+  "note": "need to arrange kids sport or games"
+  }
