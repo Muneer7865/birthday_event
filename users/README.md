@@ -4,3 +4,4 @@
 - City: Guntur
 - Job: Developer
 - Father : Muneer
+- Mother : Munthaz
